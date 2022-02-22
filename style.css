@@ -1,0 +1,18 @@
+body{
+  text-align: center;
+}
+.bt{
+  border: solid 3px #587593;
+  width: 30px;
+  height: 40px;
+  display: inline;
+  font-size: 25px;
+  color: #587593;
+  background-color: #d5dee6;
+}
+h1{
+  border: solid 3px #587593;
+  font-size: 40px;
+  color: #587593;
+  background-color: #d5dee6;
+}
